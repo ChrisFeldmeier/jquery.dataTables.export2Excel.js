@@ -1,5 +1,6 @@
 # jquery.dataTables.export2Excel.js
 DataTables.js Extension to implement nativ XLSX Export 
+Currenct Version: 1.0.0
 
 #Install
 Following js Files must be includes in your project
